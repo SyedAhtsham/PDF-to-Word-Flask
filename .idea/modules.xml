@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pdfToWord.iml" filepath="$PROJECT_DIR$/.idea/pdfToWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PDF-to-Word-Flask/.idea/pdfToWord.iml" filepath="$PROJECT_DIR$/../PDF-to-Word-Flask/.idea/pdfToWord.iml" />
     </modules>
   </component>
 </project>
