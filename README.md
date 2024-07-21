@@ -1,6 +1,6 @@
 # PDF to Word Converter
 
-![Cover Image](https://github.com/SyedAhtsham/PDF-to-Word-Flask/cover.png)
+![Cover Image](https://github.com/SyedAhtsham/PDF-to-Word-Flask/blob/main/cover.png)
 
 This project is a web application built with Flask that converts PDF files to Word documents. The application extracts text and images from PDF files and outputs them into a Word document format (.docx).
 
