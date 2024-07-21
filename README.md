@@ -1,5 +1,7 @@
 # PDF to Word Converter
 
+![Cover Image](https://github.com/SyedAhtsham/PDF-to-Word-Flask/cover.png)
+
 This project is a web application built with Flask that converts PDF files to Word documents. The application extracts text and images from PDF files and outputs them into a Word document format (.docx).
 
 ## Table of Contents
@@ -33,12 +35,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/pdf-to-word-converter.git
+    git clone https://github.com/SyedAhtsham/PDF-to-Word-Flask.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd pdf-to-word-converter
+    cd PDF-to-Word-Flask
     ```
 
 3. Create and activate a virtual environment:
@@ -81,13 +83,15 @@ Render will automatically build and deploy your application.
 
 ## Project Structure
 ```plaintext
-pdf-to-word-converter/
+PDF-to-Word-Flask/
 ├── templates/
 │   └── index.html
 ├── app.py
 ├── requirements.txt
+├── cover.png
 ├── README.md
 └── ...
+
 ```
 
 Contributing
@@ -97,4 +101,4 @@ License
 NA
 
 Contact
-For any questions or feedback, please contact us at syedahtsham@gmail.com
+For any questions or feedback, please contact us at syedahtshamqau@gmail.com.
